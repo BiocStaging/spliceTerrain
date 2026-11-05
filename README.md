@@ -12,7 +12,7 @@ transcript annotation to inspect local splicing patterns across a genomic region
 ## Installation
 
 `BiocManager` is recommended for the installation of `spliceTerrain`.
-The package is currently under development and can be installed from GitHub.
+The development version can be installed from GitHub.
 
 ```r
 if (!require("BiocManager", quietly = TRUE))

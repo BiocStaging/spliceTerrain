@@ -331,6 +331,19 @@
 #' In the returned plot, the x-axis is shared across panels. Tick labels are
 #' shown in genome coordinates, including when introns are compressed.
 #'
+#' @references
+#' Katz Y et al. (2015). Quantitative visualization of alternative exon
+#' expression from RNA-seq data. Bioinformatics, 31(14), 2400--2402.
+#' \doi{10.1093/bioinformatics/btv034}.
+#'
+#' Robinson MD and Oshlack A (2010). A scaling normalization method for
+#' differential expression analysis of RNA-seq data. Genome Biology, 11, R25.
+#' \doi{10.1186/gb-2010-11-3-r25}.
+#'
+#' Zarnack K et al. (2013). Direct Competition between hnRNP C and U2AF65
+#' Protects the Transcriptome from the Exonization of Alu Elements.
+#' Cell, 152(3), 453--466. \doi{10.1016/j.cell.2012.12.023}.
+#'
 #' @seealso
 #' \link[GenomicAlignments]{readGAlignments} and
 #' \link[GenomicAlignments]{readGAlignmentsList} for reading alignments, and

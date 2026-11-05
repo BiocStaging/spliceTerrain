@@ -7,6 +7,7 @@ author:
   - College of Health, Adelaide University, Adelaide, SA, Australia
   email: bioc@lwwb.dev
 package: spliceTerrain
+date: "Last modified: 2026-11-05"
 output:
   BiocStyle::html_document:
     toc: true
@@ -28,7 +29,7 @@ if (!interactive())
     options(width = 999)
 ```
 
-# Setup
+# Installation and setup
 
 `BiocManager` is recommended for installing the packages required in this
 vignette.
