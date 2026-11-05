@@ -7,3 +7,5 @@
 *Rproj
 .positai
 TODO.md
+/vignettes/**/*.html
+/vignettes/**/*.R

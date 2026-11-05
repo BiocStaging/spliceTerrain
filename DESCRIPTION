@@ -25,16 +25,7 @@ URL: https://github.com/baerlachlan/spliceTerrain,
     https://baerlachlan.github.io/spliceTerrain/
 BugReports: https://github.com/baerlachlan/spliceTerrain/issues
 BiocType: Software
-biocViews:
-    Alignment,
-    AlternativeSplicing,
-    Coverage,
-    GenomicVariation,
-    RNASeq,
-    Sequencing,
-    SplicedAlignment,
-    Transcriptomics,
-    Visualization,
+biocViews: Alignment, AlternativeSplicing, Coverage, GenomicVariation, RNASeq, Sequencing, SplicedAlignment, Transcriptomics, Visualization
 VignetteBuilder: knitr
 Depends:
     R (>= 4.6),
